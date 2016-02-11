@@ -1,4 +1,4 @@
-# nodesense
+# NodeSense
 NodeSense is a platform for building IoT App, Gateway, Cloud server on NodeJS, HTML5, JS. 
 
 NodeSense is an Open Source IoT platform, built over Node JS and Javascript for building connecting disconnected things,
