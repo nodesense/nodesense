@@ -1,0 +1,24 @@
+{
+  "name": "nodesense",
+  "version": "0.0.1",
+  "description": "platform for building IoT App, Gateway, Cloud server on NodeJS, HTML5, JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodesense/nodesense.git"
+  },
+  "keywords": [
+    "IoT",
+    "AngularJS",
+    "Ionic"
+  ],
+  "author": "Gopalakrishnan Subramani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nodesense/nodesense/issues"
+  },
+  "homepage": "https://github.com/nodesense/nodesense#readme"
+}
